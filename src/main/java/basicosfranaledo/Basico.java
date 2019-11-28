@@ -11,11 +11,26 @@ package basicosfranaledo;
  */
 public class Basico {
 
+     public static void logicos(){
+     
+     int a=3, b=5;
+     
+     if(a>b){
+        System.out.println("Mayor");
+     }else if(a<b){
+        System.out.println("Menor");
+     }else{
+        System.out.println("Son iguales");}
+     
+     
+     
+     }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        logicos();
     }
     
 }
