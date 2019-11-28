@@ -16,6 +16,11 @@ public class Basico {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    
+    numericos();  // Llamada al método
+    
+    
+    
     }
     
 }
